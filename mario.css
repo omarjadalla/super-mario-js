@@ -1,0 +1,17 @@
+#mapa{background:#06F; position:relative; margin:auto;}
+.chao{position:absolute; background:url(img/backgroundobjects.gif) -50px -443px;}
+.blocoazul{position:absolute; background:url(img/111.png) 35px 345px;}
+.bloco{position:absolute; background:url(img/backgroundobjects.gif) -539px -555px;}
+.blocofb{position:absolute; background:url(img/fb.gif);}
+.blocott{position:absolute; background:url(img/tt.gif);}
+.blocoin{position:absolute; background:url(img/in.gif);}
+
+#boneco{position:absolute;}
+.normaldireitapequeno{background:url(img/mario.png) 474px 247px;}
+.normalesquerdapequeno{background:url(img/mario.png) 474px 247px;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+.esquerdapequeno{background:url(img/mario.png) 457px 247px;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+.direitapequeno{background:url(img/mario.png) 457px 247px;}
+.cimaesquerdapequeno{background:url(img/mario.png) 371px 247px;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+.cimadireitapequeno{background:url(img/mario.png) 371px 247px;}
+.baixodireitapequeno{background:url(img/mario.png) 320px 247px;}
+.baixoesquerdapequeno{background:url(img/mario.png) 320px 247px;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
