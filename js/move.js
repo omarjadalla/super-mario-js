@@ -183,7 +183,7 @@ function colide(px,py,largura_colide,altura_colide){
 				col++;
 				if(cont_pula>0 && bloco[posicao[px+c][py+i]]['tipo']=='in'){window.open('http://br.linkedin.com/in/omarjadalla','_blank');}
 				if(cont_pula>0 && bloco[posicao[px+c][py+i]]['tipo']=='tt'){window.open('http://br.twitter.com/omarjadalla','_blank');}
-				if(cont_pula>0 && bloco[posicao[px+c][py+i]]['tipo']=='fb'){window.open('http://fb.com/omarmjadalla','_blank');}				
+				if(cont_pula>0 && bloco[posicao[px+c][py+i]]['tipo']=='fb'){window.open('http://fb.com/omarmedeirosjadalla','_blank');}				
 			}
 		}
 	}
